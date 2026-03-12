@@ -1,0 +1,9 @@
+{
+  "mask_token": "[MASK]",
+  "model_max_length": 1000000000000000019884624838656,
+  "name_or_path": "/scratch/users/gbenegas/checkpoints/GPN_Arabidopsis_multispecies/ConvNet_batch2048_secondpart/checkpoint-30000",
+  "pad_token": "[PAD]",
+  "special_tokens_map_file": "/scratch/users/gbenegas/huggingface-cache/transformers/models--gonzalobenegas--tokenizer-dna-mlm/snapshots/fc3ac98b0909c87052bcd4ab241a23955cf3c046/special_tokens_map.json",
+  "tokenizer_class": "PreTrainedTokenizerFast",
+  "unk_token": "[UNK]"
+}
