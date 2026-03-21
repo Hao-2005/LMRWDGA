@@ -31,7 +31,7 @@ Create and activate the conda environment:
 
 ```bash
 conda env create -f LLMDGA.yaml
-conda activate AlignNet
+conda activate LLMDGA
 ```
 
 ## Dataset Preparation
